@@ -62,7 +62,7 @@
 
 <p>
     <img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=learndifferent&show_icons=true&locale=en&theme=calm"
+         src="https://github-readme-stats.vercel.app/api?username=learndifferent&show_icons=true&locale=en&theme=calm&include_all_commits=true&show=prs_merged&hide=contribs&rank_icon=github"
          alt="learndifferent"/>
 </p>
 
